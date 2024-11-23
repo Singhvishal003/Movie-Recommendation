@@ -1,3 +1,4 @@
+# Movie Recommendation System
 ## Overview
 
 This project is a movie recommendation system designed to suggest movies based on a user's previous search history and interests. The system leverages collaborative filtering and content-based filtering techniques to provide personalized movie recommendations.
@@ -71,4 +72,4 @@ This project is a movie recommendation system designed to suggest movies based o
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
